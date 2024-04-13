@@ -1,3 +1,4 @@
+#Example of O(n^2)
 array = [1,2,3,4,5]
 
 
