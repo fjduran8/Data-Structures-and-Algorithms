@@ -1,0 +1,11 @@
+What is Good Code?
+
+1. Readable
+2. Scalable
+    -Speed (Time Complexity)
+    -Memory (Space Complexity)
+
+
+Program has two ways to remember things:
+-Heap (where we store variables)
+-Stack (funcion calls)

@@ -38,3 +38,5 @@ function printFirstItemThenFirstHalfThenSayHi100Times(items) {
 If we get something like O(n^2 + 100 + n + n) 
 we only consider the dominant term and get O(n^2)
 '''
+
+
